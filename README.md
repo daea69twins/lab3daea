@@ -5,7 +5,7 @@ Fall 2021 Senior Design Group 3 -- Lab 03
 Initial Git test:<br>
 - Alex Brown was here<br>
 - Evie Holyoake was here<br>
-
+- Daniel Payan was here <br>
 </p>
 
 <p align="center">
