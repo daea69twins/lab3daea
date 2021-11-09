@@ -1,3 +1,12 @@
+<h1 align="center">
+Fall 2021 Senior Design Group 3 -- Lab 03
+</h1>
+<p>
+Initial Git test:<br>
+- Alex Brown was here
+
+</p>
+
 <p align="center">
   <a href="https://minimal-blog.lekoarts.de">
     <img alt="LekoArts" src="https://img.lekoarts.de/gatsby/gatsby-site-illustration.png" />
