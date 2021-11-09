@@ -3,8 +3,8 @@ Fall 2021 Senior Design Group 3 -- Lab 03
 </h1>
 <p>
 Initial Git test:<br>
-- Alex Brown was here
-- Evie Holyoake was here
+- Alex Brown was here<br>
+- Evie Holyoake was here<br>
 
 </p>
 
