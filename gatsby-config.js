@@ -18,6 +18,25 @@ module.exports = {
   },
   plugins: [
     {
+      // this is for the online mysql database
+      resolve: `gatsby-source-mysql`,
+      options: {
+        connectionDetails: {
+          host: 'sql3.freemysqlhosting.net:3306',
+          user: 'sql3451634',
+          password: 'RDA6jdiw6h',
+          database: 'sql3451634'
+        },
+        queries: [
+          {
+            statement: 'SELECT * FROM country',
+            idFieldName: 'Code',
+            name: 'country'
+          }
+        ]
+      }
+    },
+    {
       resolve: `@lekoarts/gatsby-theme-minimal-blog`,
       // See the theme's README for all available options
       options: {
